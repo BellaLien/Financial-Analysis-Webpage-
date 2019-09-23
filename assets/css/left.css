@@ -1,0 +1,74 @@
+		.sidebar.navl             { font-weight: bold;
+									color: white;
+									}
+        .sidebar .navl ul          { display: none;
+									list-style: none;
+									text-align: center;
+									margin: 0;
+									padding: 0;
+									}
+        .sidebar .navl:hover ul    { display: block;
+									}
+        .sidebar .navl ul li       { color: black; }
+        .sidebar .navl ul li:hover { color: white; }
+        .sidebar a                 { text-decoration: none; }
+		
+		
+		
+		
+		.sidebar.navm            { font-weight: bold;
+									color: white;}
+        .sidebar .navm ul          { display: none;
+									text-align: center;
+									list-style: none;
+									margin: 0;
+									padding: 0; }
+        .sidebar .navm:hover ul    { display: block; }
+        .sidebar .navm ul li      {color: black; }
+        .sidebar .navm ul li:hover { color: white;  }
+        .sidebar a               { text-decoration: none; }
+		
+				
+		.sidebar.navn            { font-weight: bold;
+									color: white;}
+        .sidebar .navn ul          { display: none;
+									text-align: center;
+									list-style: none;
+									margin: 0;
+									padding: 0; }
+        .sidebar .navn:hover ul    { display: block; }
+        .sidebar .navn ul li       {color: black; }
+        .sidebar .navn ul li:hover { color: white;  }
+        .sidebar a               { text-decoration: none; }
+		
+		
+		
+		
+		.sidebar .navc             { font-weight: bold;
+									color: white;
+									}
+        .sidebar .navc ul          { display: none;
+									list-style: none;
+									text-align: center;
+									margin: 0;
+									padding: 0;
+									}
+        .sidebar .navc:hover ul    { display: block;
+									}
+        .sidebar .navc ul li       { color: black; }
+        .sidebar .navc ul li:hover { color: white; }
+        .sidebar a                 { text-decoration: none; }
+		
+		
+
+		.select
+		{
+			width:200px;
+			font-size:20px;
+			-webkit-appearance:inherit;
+			text-decoration: none;
+			 padding-left: 2.5em;
+			background-color: inherit;
+		}
+
+			
